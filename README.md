@@ -1,4 +1,4 @@
 # Starter-Repo
-First time repo  (lines thrid commit)
-First commit - d ¬ 
-Second commit - J \n
+First time repo  
+First commit -
+Second commit - J 
