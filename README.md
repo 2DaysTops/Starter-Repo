@@ -6,4 +6,5 @@ Third commit dammit - S\
 fourth commit - j\
 Hot dog commit - S-andwich\
 leave the class commit - j\
-LINES
+LINES\
+Also line are "   \   " 
