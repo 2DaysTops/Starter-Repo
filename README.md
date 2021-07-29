@@ -1,6 +1,6 @@
 # Starter-Repo
 First time repo\
-First commit\
+First commit - D\
 Second commit - J\ 
 Third commit dammit - S\
 fourth commit - j\
